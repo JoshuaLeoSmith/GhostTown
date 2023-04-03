@@ -1,0 +1,280 @@
+2023-04-03 19:39:41,246 INFO main <module> Zooming in
+2023-04-03 19:39:41,246 INFO main <module> Zoom = 1.05
+2023-04-03 19:39:41,310 INFO main <module> Zooming in
+2023-04-03 19:39:41,310 INFO main <module> Zoom = 1.1
+2023-04-03 19:39:41,388 INFO main <module> Zooming in
+2023-04-03 19:39:41,389 INFO main <module> Zoom = 1.1500000000000001
+2023-04-03 19:39:41,455 INFO main <module> Zooming in
+2023-04-03 19:39:41,455 INFO main <module> Zoom = 1.2000000000000002
+2023-04-03 19:39:41,510 INFO main <module> Zooming in
+2023-04-03 19:39:41,510 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:41,594 INFO main <module> Zooming in
+2023-04-03 19:39:41,594 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:41,655 INFO main <module> Zooming in
+2023-04-03 19:39:41,655 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:41,716 INFO main <module> Zooming in
+2023-04-03 19:39:41,716 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:42,136 INFO main <module> Zooming out
+2023-04-03 19:39:42,136 INFO main <module> Zoom = 1.2
+2023-04-03 19:39:42,256 INFO main <module> Zooming out
+2023-04-03 19:39:42,256 INFO main <module> Zoom = 1.15
+2023-04-03 19:39:42,279 INFO main <module> Zooming out
+2023-04-03 19:39:42,279 INFO main <module> Zoom = 1.0999999999999999
+2023-04-03 19:39:42,317 INFO main <module> Zooming out
+2023-04-03 19:39:42,318 INFO main <module> Zoom = 1.0499999999999998
+2023-04-03 19:39:42,353 INFO main <module> Zooming out
+2023-04-03 19:39:42,354 INFO main <module> Zoom = 0.9999999999999998
+2023-04-03 19:39:42,390 INFO main <module> Zooming out
+2023-04-03 19:39:42,390 INFO main <module> Zoom = 0.9499999999999997
+2023-04-03 19:39:42,422 INFO main <module> Zooming out
+2023-04-03 19:39:42,423 INFO main <module> Zoom = 0.8999999999999997
+2023-04-03 19:39:42,461 INFO main <module> Zooming out
+2023-04-03 19:39:42,461 INFO main <module> Zoom = 0.8499999999999996
+2023-04-03 19:39:42,495 INFO main <module> Zooming out
+2023-04-03 19:39:42,495 INFO main <module> Zoom = 0.7999999999999996
+2023-04-03 19:39:42,538 INFO main <module> Zooming out
+2023-04-03 19:39:42,538 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:42,916 INFO main <module> Zooming in
+2023-04-03 19:39:42,916 INFO main <module> Zoom = 0.8
+2023-04-03 19:39:42,928 INFO main <module> Zooming in
+2023-04-03 19:39:42,928 INFO main <module> Zoom = 0.8500000000000001
+2023-04-03 19:39:42,955 INFO main <module> Zooming in
+2023-04-03 19:39:42,955 INFO main <module> Zoom = 0.9000000000000001
+2023-04-03 19:39:42,967 INFO main <module> Zooming in
+2023-04-03 19:39:42,967 INFO main <module> Zoom = 0.9500000000000002
+2023-04-03 19:39:42,992 INFO main <module> Zooming in
+2023-04-03 19:39:42,993 INFO main <module> Zoom = 1.0000000000000002
+2023-04-03 19:39:43,017 INFO main <module> Zooming in
+2023-04-03 19:39:43,017 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:43,056 INFO main <module> Zooming in
+2023-04-03 19:39:43,056 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:43,080 INFO main <module> Zooming in
+2023-04-03 19:39:43,080 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:43,122 INFO main <module> Zooming in
+2023-04-03 19:39:43,123 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:43,204 INFO main <module> Zooming in
+2023-04-03 19:39:43,204 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:43,397 INFO main <module> Zooming out
+2023-04-03 19:39:43,397 INFO main <module> Zoom = 1.2
+2023-04-03 19:39:43,418 INFO main <module> Zooming out
+2023-04-03 19:39:43,418 INFO main <module> Zoom = 1.15
+2023-04-03 19:39:43,441 INFO main <module> Zooming out
+2023-04-03 19:39:43,441 INFO main <module> Zoom = 1.0999999999999999
+2023-04-03 19:39:43,454 INFO main <module> Zooming out
+2023-04-03 19:39:43,454 INFO main <module> Zoom = 1.0499999999999998
+2023-04-03 19:39:43,466 INFO main <module> Zooming out
+2023-04-03 19:39:43,466 INFO main <module> Zoom = 0.9999999999999998
+2023-04-03 19:39:43,491 INFO main <module> Zooming out
+2023-04-03 19:39:43,491 INFO main <module> Zoom = 0.9499999999999997
+2023-04-03 19:39:43,503 INFO main <module> Zooming out
+2023-04-03 19:39:43,503 INFO main <module> Zoom = 0.8999999999999997
+2023-04-03 19:39:43,517 INFO main <module> Zooming out
+2023-04-03 19:39:43,517 INFO main <module> Zoom = 0.8499999999999996
+2023-04-03 19:39:43,539 INFO main <module> Zooming out
+2023-04-03 19:39:43,539 INFO main <module> Zoom = 0.7999999999999996
+2023-04-03 19:39:43,565 INFO main <module> Zooming out
+2023-04-03 19:39:43,565 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:43,605 INFO main <module> Zooming out
+2023-04-03 19:39:43,605 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:43,863 INFO main <module> Zooming in
+2023-04-03 19:39:43,863 INFO main <module> Zoom = 0.8
+2023-04-03 19:39:43,875 INFO main <module> Zooming in
+2023-04-03 19:39:43,875 INFO main <module> Zoom = 0.8500000000000001
+2023-04-03 19:39:43,889 INFO main <module> Zooming in
+2023-04-03 19:39:43,889 INFO main <module> Zoom = 0.9000000000000001
+2023-04-03 19:39:43,901 INFO main <module> Zooming in
+2023-04-03 19:39:43,901 INFO main <module> Zoom = 0.9500000000000002
+2023-04-03 19:39:43,926 INFO main <module> Zooming in
+2023-04-03 19:39:43,926 INFO main <module> Zoom = 1.0000000000000002
+2023-04-03 19:39:43,938 INFO main <module> Zooming in
+2023-04-03 19:39:43,938 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:43,964 INFO main <module> Zooming in
+2023-04-03 19:39:43,964 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:43,989 INFO main <module> Zooming in
+2023-04-03 19:39:43,989 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:44,014 INFO main <module> Zooming in
+2023-04-03 19:39:44,014 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:44,058 INFO main <module> Zooming in
+2023-04-03 19:39:44,059 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:44,106 INFO main <module> Zooming in
+2023-04-03 19:39:44,106 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:44,235 INFO main <module> Zooming out
+2023-04-03 19:39:44,235 INFO main <module> Zoom = 1.2
+2023-04-03 19:39:44,268 INFO main <module> Zooming out
+2023-04-03 19:39:44,268 INFO main <module> Zoom = 1.15
+2023-04-03 19:39:44,291 INFO main <module> Zooming out
+2023-04-03 19:39:44,291 INFO main <module> Zoom = 1.0999999999999999
+2023-04-03 19:39:44,315 INFO main <module> Zooming out
+2023-04-03 19:39:44,315 INFO main <module> Zoom = 1.0499999999999998
+2023-04-03 19:39:44,326 INFO main <module> Zooming out
+2023-04-03 19:39:44,326 INFO main <module> Zoom = 0.9999999999999998
+2023-04-03 19:39:44,339 INFO main <module> Zooming out
+2023-04-03 19:39:44,339 INFO main <module> Zoom = 0.9499999999999997
+2023-04-03 19:39:44,351 INFO main <module> Zooming out
+2023-04-03 19:39:44,351 INFO main <module> Zoom = 0.8999999999999997
+2023-04-03 19:39:44,365 INFO main <module> Zooming out
+2023-04-03 19:39:44,365 INFO main <module> Zoom = 0.8499999999999996
+2023-04-03 19:39:44,365 INFO main <module> Zooming out
+2023-04-03 19:39:44,365 INFO main <module> Zoom = 0.7999999999999996
+2023-04-03 19:39:44,378 INFO main <module> Zooming out
+2023-04-03 19:39:44,378 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,394 INFO main <module> Zooming out
+2023-04-03 19:39:44,394 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,880 INFO main <module> Zooming out
+2023-04-03 19:39:44,880 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,906 INFO main <module> Zooming out
+2023-04-03 19:39:44,906 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,921 INFO main <module> Zooming out
+2023-04-03 19:39:44,921 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,935 INFO main <module> Zooming out
+2023-04-03 19:39:44,935 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,951 INFO main <module> Zooming out
+2023-04-03 19:39:44,951 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,966 INFO main <module> Zooming out
+2023-04-03 19:39:44,966 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:44,984 INFO main <module> Zooming out
+2023-04-03 19:39:44,984 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:45,010 INFO main <module> Zooming out
+2023-04-03 19:39:45,010 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:45,050 INFO main <module> Zooming out
+2023-04-03 19:39:45,050 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:45,966 INFO main <module> Zooming in
+2023-04-03 19:39:45,966 INFO main <module> Zoom = 0.8
+2023-04-03 19:39:45,990 INFO main <module> Zooming in
+2023-04-03 19:39:45,990 INFO main <module> Zoom = 0.8500000000000001
+2023-04-03 19:39:46,042 INFO main <module> Zooming in
+2023-04-03 19:39:46,042 INFO main <module> Zoom = 0.9000000000000001
+2023-04-03 19:39:46,086 INFO main <module> Zooming in
+2023-04-03 19:39:46,087 INFO main <module> Zoom = 0.9500000000000002
+2023-04-03 19:39:46,137 INFO main <module> Zooming in
+2023-04-03 19:39:46,137 INFO main <module> Zoom = 1.0000000000000002
+2023-04-03 19:39:46,192 INFO main <module> Zooming in
+2023-04-03 19:39:46,192 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:49,533 INFO main <module> Zooming in
+2023-04-03 19:39:49,533 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:49,601 INFO main <module> Zooming in
+2023-04-03 19:39:49,601 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:49,651 INFO main <module> Zooming in
+2023-04-03 19:39:49,652 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:49,683 INFO main <module> Zooming in
+2023-04-03 19:39:49,683 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:49,730 INFO main <module> Zooming in
+2023-04-03 19:39:49,730 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:49,791 INFO main <module> Zooming in
+2023-04-03 19:39:49,791 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:49,885 INFO main <module> Zooming in
+2023-04-03 19:39:49,885 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:51,913 INFO main <module> Zooming out
+2023-04-03 19:39:51,913 INFO main <module> Zoom = 1.2
+2023-04-03 19:39:51,963 INFO main <module> Zooming out
+2023-04-03 19:39:51,963 INFO main <module> Zoom = 1.15
+2023-04-03 19:39:52,020 INFO main <module> Zooming out
+2023-04-03 19:39:52,020 INFO main <module> Zoom = 1.0999999999999999
+2023-04-03 19:39:52,045 INFO main <module> Zooming out
+2023-04-03 19:39:52,045 INFO main <module> Zoom = 1.0499999999999998
+2023-04-03 19:39:52,090 INFO main <module> Zooming out
+2023-04-03 19:39:52,091 INFO main <module> Zoom = 0.9999999999999998
+2023-04-03 19:39:52,128 INFO main <module> Zooming out
+2023-04-03 19:39:52,128 INFO main <module> Zoom = 0.9499999999999997
+2023-04-03 19:39:52,183 INFO main <module> Zooming out
+2023-04-03 19:39:52,184 INFO main <module> Zoom = 0.8999999999999997
+2023-04-03 19:39:52,246 INFO main <module> Zooming out
+2023-04-03 19:39:52,246 INFO main <module> Zoom = 0.8499999999999996
+2023-04-03 19:39:52,602 INFO main <module> Zooming out
+2023-04-03 19:39:52,602 INFO main <module> Zoom = 0.7999999999999996
+2023-04-03 19:39:52,641 INFO main <module> Zooming out
+2023-04-03 19:39:52,641 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,667 INFO main <module> Zooming out
+2023-04-03 19:39:52,667 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,710 INFO main <module> Zooming out
+2023-04-03 19:39:52,712 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,753 INFO main <module> Zooming out
+2023-04-03 19:39:52,753 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,779 INFO main <module> Zooming out
+2023-04-03 19:39:52,781 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,859 INFO main <module> Zooming out
+2023-04-03 19:39:52,859 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:52,929 INFO main <module> Zooming out
+2023-04-03 19:39:52,929 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:53,071 INFO main <module> Zooming in
+2023-04-03 19:39:53,071 INFO main <module> Zoom = 0.8
+2023-04-03 19:39:53,130 INFO main <module> Zooming in
+2023-04-03 19:39:53,130 INFO main <module> Zoom = 0.8500000000000001
+2023-04-03 19:39:53,211 INFO main <module> Zooming in
+2023-04-03 19:39:53,211 INFO main <module> Zoom = 0.9000000000000001
+2023-04-03 19:39:53,256 INFO main <module> Zooming in
+2023-04-03 19:39:53,256 INFO main <module> Zoom = 0.9500000000000002
+2023-04-03 19:39:53,295 INFO main <module> Zooming in
+2023-04-03 19:39:53,295 INFO main <module> Zoom = 1.0000000000000002
+2023-04-03 19:39:53,362 INFO main <module> Zooming in
+2023-04-03 19:39:53,363 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:53,415 INFO main <module> Zooming in
+2023-04-03 19:39:53,415 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:53,498 INFO main <module> Zooming in
+2023-04-03 19:39:53,498 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:53,649 INFO main <module> Zooming in
+2023-04-03 19:39:53,650 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:56,136 INFO main <module> Zooming out
+2023-04-03 19:39:56,136 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:56,195 INFO main <module> Zooming out
+2023-04-03 19:39:56,195 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:56,251 INFO main <module> Zooming out
+2023-04-03 19:39:56,251 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:56,507 INFO main <module> Zooming in
+2023-04-03 19:39:56,507 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:56,576 INFO main <module> Zooming in
+2023-04-03 19:39:56,576 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:56,659 INFO main <module> Zooming in
+2023-04-03 19:39:56,659 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:56,725 INFO main <module> Zooming in
+2023-04-03 19:39:56,725 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:56,802 INFO main <module> Zooming in
+2023-04-03 19:39:56,802 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:56,870 INFO main <module> Zooming in
+2023-04-03 19:39:56,870 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:56,959 INFO main <module> Zooming in
+2023-04-03 19:39:56,960 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:57,042 INFO main <module> Zooming in
+2023-04-03 19:39:57,043 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:57,106 INFO main <module> Zooming in
+2023-04-03 19:39:57,106 INFO main <module> Zoom = 1.25
+2023-04-03 19:39:57,498 INFO main <module> Zooming out
+2023-04-03 19:39:57,498 INFO main <module> Zoom = 1.2
+2023-04-03 19:39:57,543 INFO main <module> Zooming out
+2023-04-03 19:39:57,545 INFO main <module> Zoom = 1.15
+2023-04-03 19:39:57,594 INFO main <module> Zooming out
+2023-04-03 19:39:57,594 INFO main <module> Zoom = 1.0999999999999999
+2023-04-03 19:39:57,622 INFO main <module> Zooming out
+2023-04-03 19:39:57,622 INFO main <module> Zoom = 1.0499999999999998
+2023-04-03 19:39:57,646 INFO main <module> Zooming out
+2023-04-03 19:39:57,646 INFO main <module> Zoom = 0.9999999999999998
+2023-04-03 19:39:57,711 INFO main <module> Zooming out
+2023-04-03 19:39:57,711 INFO main <module> Zoom = 0.9499999999999997
+2023-04-03 19:39:57,772 INFO main <module> Zooming out
+2023-04-03 19:39:57,772 INFO main <module> Zoom = 0.8999999999999997
+2023-04-03 19:39:57,838 INFO main <module> Zooming out
+2023-04-03 19:39:57,838 INFO main <module> Zoom = 0.8499999999999996
+2023-04-03 19:39:57,906 INFO main <module> Zooming out
+2023-04-03 19:39:57,906 INFO main <module> Zoom = 0.7999999999999996
+2023-04-03 19:39:57,960 INFO main <module> Zooming out
+2023-04-03 19:39:57,960 INFO main <module> Zoom = 0.75
+2023-04-03 19:39:58,081 INFO main <module> Zooming in
+2023-04-03 19:39:58,081 INFO main <module> Zoom = 0.8
+2023-04-03 19:39:58,105 INFO main <module> Zooming in
+2023-04-03 19:39:58,105 INFO main <module> Zoom = 0.8500000000000001
+2023-04-03 19:39:58,131 INFO main <module> Zooming in
+2023-04-03 19:39:58,132 INFO main <module> Zoom = 0.9000000000000001
+2023-04-03 19:39:58,155 INFO main <module> Zooming in
+2023-04-03 19:39:58,155 INFO main <module> Zoom = 0.9500000000000002
+2023-04-03 19:39:58,169 INFO main <module> Zooming in
+2023-04-03 19:39:58,169 INFO main <module> Zoom = 1.0000000000000002
+2023-04-03 19:39:58,181 INFO main <module> Zooming in
+2023-04-03 19:39:58,181 INFO main <module> Zoom = 1.0500000000000003
+2023-04-03 19:39:58,207 INFO main <module> Zooming in
+2023-04-03 19:39:58,207 INFO main <module> Zoom = 1.1000000000000003
+2023-04-03 19:39:58,242 INFO main <module> Zooming in
+2023-04-03 19:39:58,242 INFO main <module> Zoom = 1.1500000000000004
+2023-04-03 19:39:58,293 INFO main <module> Zooming in
+2023-04-03 19:39:58,293 INFO main <module> Zoom = 1.2000000000000004
+2023-04-03 19:39:58,348 INFO main <module> Zooming in
+2023-04-03 19:39:58,350 INFO main <module> Zoom = 1.25
